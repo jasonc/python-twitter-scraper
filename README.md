@@ -1,0 +1,1 @@
+This simple program is an exercise for learning how to write code in [Python](http://www.python.org/).  To do something useful with twitter look at the [twitter API](https://dev.twitter.com/docs/api) and [libraries](https://dev.twitter.com/docs/twitter-libraries).
